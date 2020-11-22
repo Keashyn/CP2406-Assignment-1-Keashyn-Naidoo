@@ -115,7 +115,7 @@
       <workItem from="1605625733765" duration="147000" />
       <workItem from="1605768383769" duration="284000" />
       <workItem from="1605770490189" duration="49000" />
-      <workItem from="1606030744449" duration="650000" />
+      <workItem from="1606030744449" duration="661000" />
     </task>
     <task id="LOCAL-00001" summary="intial commit">
       <created>1605625757823</created>
@@ -138,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606030788863</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Intial Commit">
+      <created>1606033129735</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606033129735</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,10 +193,10 @@
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605768549805" />
     <state width="1358" height="193" key="GridCell.Tab.0.right/0.25.1440.830@0.25.1440.830" timestamp="1605625880751" />
     <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1605770539956" />
-    <state x="-1448" y="117" key="Vcs.Push.Dialog.v2" timestamp="1606030796794">
+    <state x="-1448" y="117" key="Vcs.Push.Dialog.v2" timestamp="1606033134496">
       <screen x="-1920" y="-91" width="1920" height="1055" />
     </state>
-    <state x="-1448" y="117" key="Vcs.Push.Dialog.v2/0.25.1440.830/-1920.-91.1920.1055@-1920.-91.1920.1055" timestamp="1606030796794" />
+    <state x="-1448" y="117" key="Vcs.Push.Dialog.v2/0.25.1440.830/-1920.-91.1920.1055@-1920.-91.1920.1055" timestamp="1606033134496" />
     <state x="438" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605625810128">
       <screen x="0" y="25" width="1440" height="830" />
     </state>

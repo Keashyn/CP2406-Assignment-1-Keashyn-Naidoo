@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cf7cf0ae-23d3-47af-8366-8ef919be4608" name="Default Changelist" comment="" />
+    <list default="true" id="cf7cf0ae-23d3-47af-8366-8ef919be4608" name="Default Changelist" comment="intial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,12 +39,16 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="CP2406-Assignment-1-Traffic-Simulator-1.0-Keashyn-Naidoo" />
@@ -32,12 +56,37 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
+    <configuration name="BusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CP2406-Assignment-1-Traffic-Simulator-1.0-Keashyn-Naidoo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="BusTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CP2406-Assignment-1-Traffic-Simulator-1.0-Keashyn-Naidoo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CarTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MotorbikeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CP2406-Assignment-1-Traffic-Simulator-1.0-Keashyn-Naidoo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MotorbikeTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrafficLightTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="CP2406-Assignment-1-Traffic-Simulator-1.0-Keashyn-Naidoo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TrafficLightTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -46,6 +95,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.TrafficLightTest" />
+        <item itemvalue="JUnit.MotorbikeTest" />
+        <item itemvalue="JUnit.CarTest" />
+        <item itemvalue="JUnit.BusTest" />
       </list>
     </recent_temporary>
   </component>
@@ -61,10 +114,74 @@
       <option name="presentableId" value="Default" />
       <updated>1605605492845</updated>
       <workItem from="1605605493972" duration="6000" />
+      <workItem from="1605625733765" duration="147000" />
+      <workItem from="1605768383769" duration="284000" />
+      <workItem from="1605770490189" duration="49000" />
     </task>
+    <task id="LOCAL-00001" summary="intial commit">
+      <created>1605625757823</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605625757823</updated>
+    </task>
+    <task id="LOCAL-00002" summary="intial commit">
+      <created>1605625866201</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605625866201</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="intial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="intial commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom" timestamp="1605770539957">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605768549805" />
+    <state width="1358" height="193" key="GridCell.Tab.0.bottom/0.25.1440.830@0.25.1440.830" timestamp="1605625880752" />
+    <state width="1398" height="213" key="GridCell.Tab.0.bottom/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1605770539957" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center" timestamp="1605770539956">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605768549804" />
+    <state width="1358" height="193" key="GridCell.Tab.0.center/0.25.1440.830@0.25.1440.830" timestamp="1605625880751" />
+    <state width="1398" height="213" key="GridCell.Tab.0.center/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1605770539956" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left" timestamp="1605770539956">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605768549803" />
+    <state width="1358" height="193" key="GridCell.Tab.0.left/0.25.1440.830@0.25.1440.830" timestamp="1605625880750" />
+    <state width="1398" height="213" key="GridCell.Tab.0.left/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1605770539956" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right" timestamp="1605770539956">
+      <screen x="0" y="25" width="1440" height="831" />
+    </state>
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.830/-1920.-91.1920.1055@0.25.1440.830" timestamp="1605768549805" />
+    <state width="1358" height="193" key="GridCell.Tab.0.right/0.25.1440.830@0.25.1440.830" timestamp="1605625880751" />
+    <state width="1398" height="213" key="GridCell.Tab.0.right/0.25.1440.831/-1920.-91.1920.1055@0.25.1440.831" timestamp="1605770539956" />
+    <state x="438" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1605625810128">
+      <screen x="0" y="25" width="1440" height="830" />
+    </state>
+    <state x="438" y="367" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.25.1440.830@0.25.1440.830" timestamp="1605625810128" />
   </component>
 </project>
